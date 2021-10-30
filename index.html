@@ -1,0 +1,2615 @@
+<!DOCTYPE html>
+<html class=" is-full is-full has-default-focus theme-light" lang="en-us" dir="ltr" data-css-variable-support="true"
+	data-authenticated="false" data-target="docs" x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="color-scheme" content="light dark">
+	<title>Microsoft Learn | Microsoft Docs</title>
+	<link rel="stylesheet" href="assets/main.css">
+	<script src="assets/plugin/jquery/jquery-3.6.0.js"></script>
+	<script src="assets/custom.js"></script>
+</head>
+
+<body lang="en-us" dir="ltr">
+	<div class="header-holder has-default-focus">
+		<a href="#main"
+			class="skip-to-main-link has-outline-color-text visually-hidden-until-focused position-fixed has-inner-focus focus-visible top-0 left-0 right-0 padding-xs has-text-centered has-body-background"
+			tabindex="1">Skip to main content</a>
+
+		<div hidden id="cookie-consent-holder"></div>
+		<div id="banner-holder" class="has-default-focus has-overflow-hidden theme-light">
+			<!---->
+			<section data-bi-name="tier1-event-banner" data-dismissable="disappearing"
+				class="tier1-event-banner position-relative padding-top-md padding-bottom-md ignite-banner">
+				<div class="uhf-container display-flex-tablet align-items-center">
+					<div class="has-backdrop-filter-blur margin-right-xxl-tablet">
+						<h2 class="title is-2 margin-bottom-xs">
+							<!---->Microsoft Ignite
+							<!---->
+						</h2>
+						<p class="font-size-s">
+							<!---->November 2–4, 2021 | Free digital event
+							<!---->
+						</p>
+					</div>
+					<p
+						class="container is-max-mobile display-none display-block-widescreen has-backdrop-filter-blur font-size-s margin-left-none margin-right-xxl">
+						Join us November 2–4, 2021 for our digital experience, including the latest product demos,
+						Q&amp;A with Microsoft experts, technical deep-dives, and more. All skill levels welcome!
+					</p>
+					<a class="button margin-block-sm" data-bi-name="CTA" href="#">
+						<span>
+							<!---->Register now
+							<!---->
+						</span>
+						<span class="icon" aria-hidden="true">
+							<span class="docon docon-chevron-right-light"></span>
+						</span>
+					</a>
+				</div>
+				<button type="button"
+					class="button delete delete-lg position-absolute top-0 right-0 margin-xs margin-sm-tablet close-upper-banner">
+					<span class="visually-hidden">
+						<!---->Dismiss alert
+						<!---->
+					</span>
+				</button>
+			</section>
+			<!---->
+		</div>
+		<!-- liquid-tag banners global -->
+		<div id="headerAreaHolder" data-bi-name="header">
+			<header role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+				<div class="nav-bar">
+					<!---->
+					<div class="nav-bar-brand">
+						<a class="nav-bar-button" itemprop="url" href="#" aria-label="Microsoft">
+							<div class="nav-bar-logo" role="presentation" aria-hidden="true" itemprop="logo"
+								itemscope="itemscope">
+								<svg xmlns="http://www.w3.org/2000/svg" width="108" height="23" viewBox="72 72 337 74"
+									preserveAspectRatio="xMidYMin slice">
+									<g data-name="MS-symbol">
+										<clipPath>
+											<path transform="matrix(1 0 0 -1 0 216)" d="M0 216h482V0H0z"></path>
+										</clipPath>
+										<g clip-path="url(#a)">
+											<path class="has-fill-current-color has-text-subtle"
+												d="M394.942 104.59h-10.858v25.003h-7.38V104.59h-5.182v-5.965h5.182v-4.308c0-3.254 1.06-5.92 3.178-7.998 2.12-2.079 4.835-3.118 8.15-3.118.882 0 1.666.045 2.35.135a9.37 9.37 0 011.806.407v6.296c-.24-.14-.663-.31-1.265-.512-.603-.2-1.296-.3-2.078-.3-1.528 0-2.702.476-3.526 1.43-.824.954-1.235 2.365-1.235 4.232v3.736h10.858v-6.959l7.321-2.229v9.188h7.381v5.965h-7.38v14.49c0 1.91.345 3.254 1.038 4.037.693.783 1.782 1.175 3.27 1.175.42 0 .927-.1 1.52-.3a7.178 7.178 0 001.552-.724v6.025c-.463.261-1.23.502-2.305.723a15.742 15.742 0 01-3.178.331c-3.073 0-5.378-.817-6.914-2.455-1.537-1.637-2.305-4.102-2.305-7.396zm-48.407 9.73c0 3.233.733 5.703 2.2 7.411 1.465 1.707 3.564 2.56 6.295 2.56 2.652 0 4.67-.853 6.055-2.56 1.386-1.708 2.08-4.238 2.08-7.592 0-3.334-.719-5.849-2.155-7.547-1.436-1.697-3.45-2.545-6.04-2.545-2.67 0-4.745.888-6.22 2.666-1.477 1.777-2.215 4.313-2.215 7.607m-7.592.24c0-5.12 1.446-9.177 4.338-12.17 2.892-2.993 6.91-4.489 12.05-4.489 4.841 0 8.621 1.441 11.343 4.323 2.721 2.883 4.082 6.774 4.082 11.674 0 5.021-1.447 9.018-4.338 11.99-2.892 2.973-6.829 4.458-11.81 4.458-4.8 0-8.61-1.41-11.432-4.232-2.822-2.82-4.233-6.673-4.233-11.554m-16.417-7.802c0 1.045.331 1.863.994 2.456.662.592 2.128 1.34 4.398 2.243 2.912 1.166 4.956 2.476 6.131 3.932 1.175 1.456 1.762 3.22 1.762 5.287 0 2.912-1.12 5.252-3.359 7.02-2.24 1.767-5.267 2.65-9.083 2.65-1.285 0-2.706-.155-4.263-.467-1.556-.31-2.877-.707-3.96-1.19v-7.169a17.945 17.945 0 004.277 2.198c1.526.543 2.911.814 4.157.814 1.647 0 2.862-.23 3.645-.693.784-.46 1.175-1.235 1.175-2.319 0-1.005-.406-1.853-1.22-2.546-.813-.693-2.355-1.492-4.624-2.395-2.69-1.125-4.599-2.39-5.724-3.796-1.125-1.406-1.687-3.193-1.687-5.362 0-2.792 1.11-5.086 3.33-6.884 2.217-1.797 5.095-2.696 8.63-2.696 1.084 0 2.3.12 3.645.361 1.346.242 2.47.553 3.374.934v6.93c-.964-.644-2.089-1.195-3.374-1.658-1.286-.462-2.56-.693-3.826-.693-1.386 0-2.465.271-3.238.813-.774.543-1.16 1.286-1.16 2.23m-35.066 7.562c0 3.233.733 5.703 2.2 7.411 1.465 1.707 3.564 2.56 6.295 2.56 2.652 0 4.67-.853 6.055-2.56 1.386-1.708 2.08-4.238 2.08-7.592 0-3.334-.719-5.849-2.155-7.547-1.436-1.697-3.449-2.545-6.039-2.545-2.672 0-4.745.888-6.222 2.666-1.476 1.777-2.214 4.313-2.214 7.607m-7.592.24c0-5.12 1.446-9.177 4.338-12.17 2.893-2.993 6.91-4.489 12.051-4.489 4.84 0 8.621 1.441 11.342 4.323 2.721 2.883 4.082 6.774 4.082 11.674 0 5.021-1.446 9.018-4.338 11.99-2.892 2.973-6.828 4.458-11.809 4.458-4.8 0-8.61-1.41-11.433-4.232-2.822-2.82-4.233-6.673-4.233-11.554m-3.136-16.448c.582 0 1.105.041 1.567.121.462.08.853.18 1.175.301v7.38c-.382-.28-.939-.546-1.672-.798-.733-.25-1.622-.376-2.666-.376-1.788 0-3.299.753-4.534 2.26-1.235 1.505-1.853 3.825-1.853 6.958v15.635h-7.29V98.624h7.29v4.88h.12c.663-1.687 1.667-3.007 3.013-3.96 1.346-.954 2.962-1.432 4.85-1.432m-27.956 26.18c1.084 0 2.28-.25 3.585-.754a15.06 15.06 0 003.615-1.988v6.778c-1.165.663-2.485 1.165-3.962 1.506-1.475.342-3.098.512-4.865.512-4.559 0-8.265-1.44-11.116-4.323-2.852-2.88-4.278-6.562-4.278-11.04 0-4.98 1.456-9.083 4.37-12.307 2.91-3.224 7.037-4.835 12.38-4.835 1.366 0 2.746.176 4.143.527 1.395.352 2.504.758 3.328 1.22v6.99c-1.125-.824-2.274-1.462-3.45-1.914a9.966 9.966 0 00-3.599-.678c-2.872 0-5.192.934-6.959 2.802-1.768 1.868-2.652 4.388-2.652 7.562 0 3.132.85 5.573 2.546 7.32 1.697 1.748 4.002 2.621 6.914 2.621m-22.112 5.302h-7.29V98.624h7.29zm-8.044-39.916c0-1.205.437-2.214 1.311-3.028.874-.813 1.913-1.22 3.118-1.22 1.285 0 2.35.417 3.193 1.25.844.834 1.266 1.833 1.266 2.998 0 1.185-.432 2.18-1.296 2.982-.864.804-1.918 1.205-3.163 1.205-1.246 0-2.295-.406-3.148-1.219-.854-.815-1.28-1.803-1.28-2.968m-6.274-3.284v43.2h-7.5v-33.86h-.12l-13.408 33.86h-4.97l-13.738-33.86h-.09v33.86h-6.929v-43.2h10.755l12.412 32.024h.18l13.105-32.024z">
+											</path>
+											<path d="M106.214 106.214H71.996V71.996h34.218z" fill="#f25022"></path>
+											<path d="M143.993 106.214h-34.218V71.996h34.218z" fill="#7fba00"></path>
+											<path d="M106.214 143.993H71.996v-34.218h34.218z" fill="#00a4ef"></path>
+											<path d="M143.993 143.993h-34.218v-34.218h34.218z" fill="#ffb900"></path>
+										</g>
+									</g>
+								</svg>
+							</div>
+						</a>
+					</div>
+
+					<div class="nav-bar-item is-hidden-tablet">
+						<div class="nav-bar-menu">
+							<button class="nav-bar-button is-title left-menu-trigger-btn" title="Global navigation"
+								aria-expanded="false">
+								<span class="nav-bar-menu-title">
+									<!---->Learn
+									<!---->
+								</span>
+								<div class="nav-bar-burger">
+									<span></span>
+									<span></span>
+									<span></span>
+									<span class="nav-bar-burger-label">
+										<!---->Global navigation
+										<!---->
+									</span>
+								</div>
+							</button>
+						</div>
+					</div>
+
+
+					<nav class="nav-bar-nav" role="navigation" aria-label="Global">
+						<ul class="nav-bar-nav-list">
+
+							<li class="nav-bar-item is-category">
+								<a class="nav-bar-button is-title has-hover-underline is-active" itemprop="url" href="index.html">
+									<span>
+										<!---->Homepage
+										<!---->
+									</span>
+								</a>
+							</li>
+
+							<!---->
+							<li class="nav-bar-item">
+								<a class=" nav-bar-button has-hover-underline " href="browse.html">
+									<span>
+										<!---->Page 2
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="nav-bar-item">
+								<a class=" nav-bar-button has-hover-underline" href="certification.html">
+									<span>
+										<!---->Page 3
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="nav-bar-item">
+								<a class=" nav-bar-button has-hover-underline " href="certification-role.html">
+									<span>
+										<!---->Page 4
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="nav-bar-item">
+								<a class=" nav-bar-button has-hover-underline " href="path.html">
+									<span>
+										<!---->Page 5
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="dropdown nav-bar-item" hidden="">
+								<button aria-expanded="false"
+									class="dropdown-trigger nav-bar-button  has-hover-underline" aria-controls="ax-109">
+									<span>
+										<!---->More
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-down-light expanded-indicator"></span>
+									</span>
+								</button>
+								<ul class="dropdown-menu" id="ax-109" aria-label="More">
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class=" nav-bar-button " href="#">
+											<!---->Documentation
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class=" nav-bar-button is-active" href="#">
+											<!---->Learn
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class=" nav-bar-button " href="#">
+											<!---->Q&amp;A
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class=" nav-bar-button " href="#">
+											<!---->Code Samples
+											<!---->
+										</a>
+									</li>
+									<!---->
+								</ul>
+							</li>
+							<!---->
+						</ul>
+					</nav>
+
+					<span class="nav-bar-spacer"></span>
+
+					<div class="nav-bar-search " id="ax-110" hidden="">
+
+						<form class="nav-bar-search-form" method="GET" name="nav-bar-search-form" role="search"
+							id="nav-bar-search-form" aria-label="Search" aria-expanded="false" action="/en-us/search/">
+							<div class="autocomplete" data-bi-name="autocomplete">
+								<!---->
+								<div class="control ">
+									<input role="combobox" maxlength="100" aria-autocomplete="list" autocapitalize="off"
+										autocomplete="off" autocorrect="off" spellcheck="false" id="site-search-input"
+										class="autocomplete-input input   is-small" type="search" name="terms"
+										aria-expanded="false" aria-owns="ax-111-listbox" aria-activedescendant=""
+										aria-label="Search" placeholder="Search">
+
+									<span aria-hidden="true" class="icon is-small is-left" hidden="">
+										<span class="has-text-primary docon docon-undefined"></span>
+									</span>
+
+									<span aria-hidden="true" class="autocomplete-loader loader has-text-primary "
+										hidden=""></span>
+								</div>
+
+								<ul class="autocomplete-suggestions is-vertically-scrollable" role="listbox"
+									id="ax-111-listbox" aria-label="site-search-input-suggestions" hidden="">
+
+
+								</ul>
+								<!---->
+							</div>
+							<!-- mobile safari will not dispatch submit event unless there's a submit button that is not display:none -->
+							<button type="submit" class="visually-hidden" tabindex="-1" aria-hidden="true"></button>
+							<input name="category" hidden="" value="Learn">
+
+
+
+						</form>
+
+					</div>
+
+					<div class="nav-bar-search">
+						<!-- hidden when the width drops to tablet -->
+
+						<form class="nav-bar-search-form" method="GET" name="nav-bar-search-form" role="search"
+							id="nav-bar-search-form-desktop" aria-label="Search" aria-expanded="false"
+							action="/en-us/search/">
+							<div class="autocomplete" data-bi-name="autocomplete">
+								<!---->
+								<div class="control has-icons-left">
+									<input role="combobox" maxlength="100" aria-autocomplete="list" autocapitalize="off"
+										autocomplete="off" autocorrect="off" spellcheck="false" id="ax-112"
+										class="autocomplete-input input control has-icons-left  is-small" type="search"
+										name="terms" aria-expanded="false" aria-owns="ax-113-listbox"
+										aria-activedescendant="" aria-label="Search" placeholder="Search">
+
+									<span aria-hidden="true" class="icon is-small is-left">
+										<span class="has-text-primary docon docon-search"></span>
+									</span>
+
+									<span aria-hidden="true" class="autocomplete-loader loader has-text-primary "
+										hidden=""></span>
+								</div>
+
+								<ul class="autocomplete-suggestions is-vertically-scrollable" role="listbox"
+									id="ax-113-listbox" aria-label="ax-112-suggestions" hidden="">
+
+
+								</ul>
+								<!---->
+							</div>
+							<!-- mobile safari will not dispatch submit event unless there's a submit button that is not display:none -->
+							<button type="submit" class="visually-hidden" tabindex="-1" aria-hidden="true"></button>
+							<input name="category" hidden="" value="Learn">
+
+
+
+						</form>
+
+					</div>
+
+					<div class="nav-bar-search " hidden="">
+						<div class="nav-bar-search-form-expander">
+							<button id="form-expander" class="nav-bar-button has-hover-underline " title="Search"
+								aria-expanded="false" aria-controls="ax-110">
+
+								<span class="is-visually-hidden-mobile">
+									<!---->Search
+									<!---->
+								</span>
+								<span class="icon margin-left-xxs" aria-hidden="true">
+									<span class="docon docon-search"></span>
+								</span>
+
+							</button>
+						</div>
+					</div>
+
+
+					<div class="nav-bar-profile">
+
+						<a class="docs-sign-in auth-status-determined not-authenticated" href="#"> Sign in </a>
+
+						<div class="dropdown has-caret auth-status-determined authenticated">
+							<button class="dropdown-trigger button-reset" aria-controls="user-menu"
+								aria-expanded="false" aria-label="Your Account">
+								<figure class="image is-36x36">
+									<img class="has-body-background-medium is-rounded" alt=""
+										data-profile-property="avatarUrl">
+								</figure>
+							</button>
+							<div class="dropdown-menu box justify-content-flex-start has-body-background" id="user-menu"
+								role="menu">
+								<div class="media is-user-dir">
+									<div class="media-left">
+										<figure class="image is-48x48" aria-hidden="true">
+											<img class="has-body-background-medium is-rounded"
+												aria-labelledby="displayName" data-profile-property="avatarUrl">
+										</figure>
+									</div>
+									<div class="media-content">
+										<p class="title font-size-l">
+											<span id="displayName" class="is-inline-truncated has-max-width-200"
+												data-profile-property="displayName"></span>
+										</p>
+										<p class="subtitle font-size-s has-margin-bottom-none">
+											<span class="is-inline-truncated has-max-width-200"
+												data-profile-property="upn"></span>
+										</p>
+									</div>
+								</div>
+								<ul class="has-padding-top-small has-padding-bottom-medium">
+									<li class="has-padding-top-extra-small has-padding-bottom-extra-small">
+										<a href="#" data-profile-property="profileUrl">
+											<!---->Profile
+											<!---->
+										</a>
+									</li>
+									<li class="has-padding-top-extra-small has-padding-bottom-extra-small">
+										<a href="#" data-profile-property="collectionsUrl">
+											<!---->Collections
+											<!---->
+										</a>
+									</li>
+									<li class="has-padding-top-extra-small">
+										<a href="#" data-profile-property="challengesUrl">
+											<!---->Challenges
+											<!---->
+										</a>
+									</li>
+								</ul>
+								<div class="border-top has-padding-top-medium">
+									<a class="docs-sign-out" href="#">
+										<!---->Sign out
+										<!---->
+									</a>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<!---->
+				</div>
+				<div class="nav-bar border-top is-hidden-mobile">
+					<!---->
+					<a class="nav-bar-button is-title has-hover-underline" itemprop="url" href="#">
+						<span>
+							Learn
+
+						</span>
+					</a>
+
+
+					<nav class="nav-bar-nav" role="navigation" aria-label="Site">
+						<ul class="nav-bar-nav-list">
+
+							<!---->
+							<li class="dropdown nav-bar-item">
+								<button aria-expanded="false"
+									class="dropdown-trigger nav-bar-button  has-hover-underline" aria-controls="ax-102">
+									<span>
+										<!---->Products
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-down-light expanded-indicator"></span>
+									</span>
+								</button>
+								<ul class="dropdown-menu" id="ax-102" aria-label="Products">
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Azure
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Dynamics 365
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->GitHub
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Microsoft 365
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->.NET
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Power Platform
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Teams
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Browse all paths
+											<!---->
+										</a>
+									</li>
+									<!---->
+								</ul>
+							</li>
+							<!---->
+							<li class="dropdown nav-bar-item">
+								<button aria-expanded="false"
+									class="dropdown-trigger nav-bar-button  has-hover-underline" aria-controls="ax-103">
+									<span>
+										<!---->Roles
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-down-light expanded-indicator"></span>
+									</span>
+								</button>
+								<ul class="dropdown-menu" id="ax-103" aria-label="Roles">
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Administrator
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->AI Engineer
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->App Maker
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Auditor
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Business User
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Data Analyst
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Data Engineer
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Data Scientist
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Developer
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->DevOps Engineer
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Educator
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Functional Consultant
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Security Engineer
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Solutions Architect
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Student
+											<!---->
+										</a>
+									</li>
+									<!---->
+								</ul>
+							</li>
+							<!---->
+							<li class="nav-bar-item">
+								<a class="has-external-link-indicator nav-bar-button has-hover-underline " href="#">
+									<span>
+										<!---->Learn TV
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="dropdown nav-bar-item">
+								<button aria-expanded="false"
+									class="dropdown-trigger nav-bar-button  has-hover-underline" aria-controls="ax-104">
+									<span>
+										<!---->Certifications
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-down-light expanded-indicator"></span>
+									</span>
+								</button>
+								<ul class="dropdown-menu" id="ax-104" aria-label="Certifications">
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Overview
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Browse Certifications
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="nav-bar-item">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Browse Courses
+											<!---->
+										</a>
+									</li>
+									<!---->
+								</ul>
+							</li>
+							<!---->
+							<li class="nav-bar-item">
+								<a class="has-external-link-indicator nav-bar-button has-hover-underline " href="#">
+									<span>
+										<!---->FAQ &amp; Help
+										<!---->
+									</span>
+								</a>
+							</li>
+							<!---->
+							<li class="dropdown nav-bar-item" hidden="">
+								<button aria-expanded="false"
+									class="dropdown-trigger nav-bar-button  has-hover-underline" aria-controls="ax-105">
+									<span>
+										<!---->More
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-down-light expanded-indicator"></span>
+									</span>
+								</button>
+								<ul class="dropdown-menu" id="ax-105" aria-label="More">
+									<!---->
+									<li class="dropdown nav-bar-item" hidden="">
+										<button aria-expanded="false" class="dropdown-trigger nav-bar-button  "
+											aria-controls="ax-106">
+											<span>
+												<!---->Products
+												<!---->
+											</span>
+											<span class="nav-bar-button-chevron" aria-hidden="true">
+												<span class="docon docon-chevron-right-light "></span>
+											</span>
+										</button>
+										<ul class="dropdown-menu" id="ax-106" aria-label="Products">
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Azure
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Dynamics 365
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->GitHub
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Microsoft 365
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->.NET
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Power Platform
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Teams
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Browse all paths
+													<!---->
+												</a>
+											</li>
+											<!---->
+										</ul>
+									</li>
+									<!---->
+									<li class="dropdown nav-bar-item" hidden="">
+										<button aria-expanded="false" class="dropdown-trigger nav-bar-button  "
+											aria-controls="ax-107">
+											<span>
+												<!---->Roles
+												<!---->
+											</span>
+											<span class="nav-bar-button-chevron" aria-hidden="true">
+												<span class="docon docon-chevron-right-light "></span>
+											</span>
+										</button>
+										<ul class="dropdown-menu" id="ax-107" aria-label="Roles">
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Administrator
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->AI Engineer
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->App Maker
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Auditor
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Business User
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Data Analyst
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Data Engineer
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Data Scientist
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Developer
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->DevOps Engineer
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Educator
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Functional Consultant
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Security Engineer
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Solutions Architect
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Student
+													<!---->
+												</a>
+											</li>
+											<!---->
+										</ul>
+									</li>
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->Learn TV
+											<!---->
+										</a>
+									</li>
+									<!---->
+									<li class="dropdown nav-bar-item" hidden="">
+										<button aria-expanded="false" class="dropdown-trigger nav-bar-button  "
+											aria-controls="ax-108">
+											<span>
+												<!---->Certifications
+												<!---->
+											</span>
+											<span class="nav-bar-button-chevron" aria-hidden="true">
+												<span class="docon docon-chevron-right-light "></span>
+											</span>
+										</button>
+										<ul class="dropdown-menu" id="ax-108" aria-label="Certifications">
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Overview
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Browse Certifications
+													<!---->
+												</a>
+											</li>
+											<!---->
+											<li class="nav-bar-item">
+												<a class="has-external-link-indicator nav-bar-button " href="#">
+													<!---->Browse Courses
+													<!---->
+												</a>
+											</li>
+											<!---->
+										</ul>
+									</li>
+									<!---->
+									<li class="nav-bar-item" hidden="">
+										<a class="has-external-link-indicator nav-bar-button " href="#">
+											<!---->FAQ &amp; Help
+											<!---->
+										</a>
+									</li>
+									<!---->
+								</ul>
+							</li>
+							<!---->
+						</ul>
+					</nav>
+
+					<span class="nav-bar-spacer"></span>
+
+					<div id="level-status-container" class="display-flex align-items-center is-hidden is-hidden-touch">
+						<div id="level-status"
+							class="position-relative level has-margin-left-extra-small has-margin-right-extra-small">
+							<!---->
+							<span id="level-status-text"
+								class="font-size-xs has-text-wrap is-inline-truncated is-uppercase font-weight-semibold"></span>
+							<span id="level-status-progress-container" class="hexagonal-progress">
+								<progress id="level-status-progress"
+									class="progress is-hidden-mobile is-inline-block position-relative is-success"
+									value="1" max="100">
+									1%
+								</progress>
+								<span class="hexagonal-progress-marker"></span>
+							</span>
+							<span id="level-status-points"
+								class="font-size-xs has-text-wrap is-inline-truncated is-uppercase">
+							</span>
+							<!---->
+						</div>
+					</div>
+
+					<!---->
+				</div>
+			</header>
+		</div>
+
+
+		<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
+			<!-- liquid-tag banners sectional -->
+		</div>
+	</div>
+
+	<div class="mainContainer  uhf-container has-body-background-dark uhf-container is-full  has-default-focus"
+		data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile  is-gapless">
+
+
+			<!-- .primary-holder -->
+			<section class="primary-holder column ">
+				<!--div.columns -->
+				<div class="columns is-gapless-mobile has-large-gaps  is-gapless">
+
+
+					<div id="main-column" class="column ">
+
+						<main id="main" role="main" class="" data-bi-name="content" lang="en-us" dir="ltr">
+
+
+
+
+
+
+							<!-- <content> -->
+
+							<div class="hero has-background-docs">
+								<div class="hero-background">
+									<img src="media/hero_background_light.svg?branch=main" alt=""
+										class="display-none display-block-desktop" data-linktype="absolute-path">
+									<img src="media/hero_background_dark.svg?branch=main" alt=""
+										class="display-none-desktop" data-linktype="absolute-path">
+								</div>
+								<div id="hero-main-container"
+									class="has-uhf-padding-desktop has-padding-top-medium has-padding-top-none-tablet margin-bottom-xl-desktop">
+									<div class="columns is-gapless-mobile">
+										<div class="column is-two-fifths-desktop is-one-third-fullhd">
+											<div class="hero-card is-dark">
+												<p id="hero-supertitle"
+													class="not-authenticated is-spaced supertitle font-size-xs letter-spacing-wide has-line-height-reset is-uppercase">
+													Welcome to Microsoft Learn</p>
+												<h1 id="hero-title" class="title is-2 font-weight-semibold">Discover
+													your path</h1>
+												<p id="hero-summary" class="not-authenticated has-margin-top-small">
+													Whether you&#39;re just starting or an experienced professional, our
+													hands-on approach helps you arrive at your goals faster, with more
+													confidence and at your own pace.</p>
+												<!-- <p id="authenticated-summary"
+													class="authenticated has-margin-top-small">Master core concepts at
+													your speed and on your schedule. Whether you&#39;ve got 15 minutes
+													or an hour, you can develop practical skills through interactive
+													modules and paths.</p> -->
+												<!-- <a class="button button-primary button-filled has-margin-top-large"
+													href="#" data-bi-name="learn-homepage-cta-browse"
+													data-linktype="absolute-path">Browse all paths</a> -->
+												<button type="button"
+													class="button button-primary button-filled has-margin-top-large"
+													data-bi-name="learn-homepage-cta-customize">Customize my
+													path</button>
+												<p id="browse-full-catalog" class="margin-top-xs">
+													<a class="has-color-current-color text-decoration-underline margin-right-xs"
+														href="#" data-linktype="absolute-path">
+														Browse the full catalog
+													</a>
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<section id="resources-section" class="previous-sibling-overlay-l-desktop">
+								<div
+									class="has-uhf-padding position-relative has-z-index-one has-padding-top-medium has-padding-top-none-tablet has-margin-top-extra-large">
+									<div class="columns is-desktop">
+										<div class="column is-8-tablet is-4-desktop has-margin-auto-sides">
+											<article class="media-card is-horizontal is-full-height">
+												<figure class="media-card-image" aria-hidden="true">
+													<img src="media/featured_learning-path_tablet.png" alt=""
+														data-linktype="absolute-path">
+												</figure>
+												<div class="media-card-content">
+													<div class="media-card-content-titles">
+														<p>Learning Paths</p>
+														<h2>Learn on your own schedule</h2>
+													</div>
+													<p class="media-card-content-description">Explore a topic in-depth
+														through guided paths or learn how to accomplish a specific task
+														through individual modules.</p>
+													<a href="#" class="media-card-content-link"
+														data-linktype="absolute-path">Browse all learning options</a>
+												</div>
+											</article>
+										</div>
+										<div class="column is-8-tablet is-4-desktop has-margin-auto-sides">
+											<article class="media-card is-horizontal is-full-height">
+												<figure class="media-card-image" aria-hidden="true">
+													<img src="media/featured_certifications_tablet.png" alt=""
+														data-linktype="absolute-path">
+												</figure>
+												<div class="media-card-content">
+													<div class="media-card-content-titles">
+														<p>Certifications</p>
+														<h2>Become Microsoft certified</h2>
+													</div>
+													<p class="media-card-content-description">Jump-start your career and
+														demonstrate your achievements through industry-recognized
+														Microsoft certifications.</p>
+													<a href="#" class="media-card-content-link"
+														data-linktype="absolute-path">Explore Certifications</a>
+												</div>
+											</article>
+										</div>
+										<div class="column is-8-tablet is-4-desktop has-margin-auto-sides">
+											<article class="media-card is-horizontal is-full-height">
+												<figure class="media-card-image" aria-hidden="true">
+													<img src="media/learn-tv-tile.jpg" alt=""
+														data-linktype="relative-path">
+												</figure>
+												<div class="media-card-content">
+													<div class="media-card-content-titles">
+														<p>Learn TV</p>
+														<h2>Watch live and recorded events</h2>
+													</div>
+													<p class="media-card-content-description">View streaming technical
+														content about Microsoft products from the experts that build and
+														use it every day.</p>
+													<a href="#" class="media-card-content-link"
+														data-linktype="absolute-path">Start watching now</a>
+												</div>
+											</article>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section id="trending-section" data-bi-name="learn-homepage-trending">
+								<div
+									class="uhf-container has-padding-top-extra-large has-padding-left-extra-large-desktop has-padding-right-extra-large-desktop position-relative has-z-index-one">
+									<div id="trending-section-header" class="columns is-desktop">
+										<div class="column has-padding-none"></div>
+										<div class="column is-6-desktop is-full">
+											<h2 id="trending-title"
+												class="title is-2 has-text-centered has-margin-bottom-none">Popular
+												learning paths and modules</h2>
+											<p id="zero-results-interests"
+												class="is-hidden has-text-centered display-flex flex-wrap-wrap align-items-center justify-content-center">
+											</p>
+										</div>
+										<div class="column content is-3-desktop is-full">
+											<div
+												class="display-flex has-margin-right-extra-large-desktop justify-content-center has-flex-justify-content-end-desktop">
+												<button id="edit-learning-preferences"
+													aria-labelledby="edit-learning-preferences-label" type="button"
+													data-bi-name="edit-learning-preferences"
+													class="button is-hidden button-clear button-sm has-inner-focus -touch">
+													<span class="icon" aria-hidden="true">
+														<span class="docon docon-edit-outline has-text-primary"></span>
+													</span>
+													<span id="edit-learning-preferences-label">Edit your
+														interests</span>
+												</button>
+											</div>
+										</div>
+									</div>
+									<ul id="trending-grid"
+										class="grid is-3-desktop has-margin-left-extra-large-desktop has-margin-right-extra-large-desktop">
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/az-900-describe-cloud-concepts.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 1: Describe core Azure
+															concepts
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->1 hr 34 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 1: Describe core Azure concepts"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-cloud-concepts/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 1: Describe core Azure concepts to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/az-900-describe-core-azure-services.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 2: Describe core Azure
+															services
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->2 hr 40 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 2: Describe core Azure services"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-core-azure-services/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 2: Describe core Azure services to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/azure-fundamentals-describe-core-solutions-and-management-tools-on-azure.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 3: Describe core solutions
+															and management tools on Azure
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->2 hr 20 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 3: Describe core solutions and management tools on Azure"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 3: Describe core solutions and management tools on Azure to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/sustainable-software-engineering-overview.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->The Principles of Sustainable Software Engineering
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->33 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<div class="font-size-s has-text-subtle">
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!---->
+
+																<span role="img" aria-label="4.8 out of 5 stars">
+																	<!---->4.8 (3,376)
+																</span>
+															</div>
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Developer
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="The Principles of Sustainable Software Engineering"
+																	data-list-item-url="/en-us/learn/modules/sustainable-software-engineering-overview/"
+																	aria-pressed="false"
+																	title="Add The Principles of Sustainable Software Engineering to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-power-platform-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/get-started-power-bi.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Get started building with Power BI
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->40 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<div class="font-size-s has-text-subtle">
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!---->
+
+																<span role="img" aria-label="4.8 out of 5 stars">
+																	<!---->4.8 (45,428)
+																</span>
+															</div>
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Microsoft Power Platform
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Business User
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Get started building with Power BI"
+																	data-list-item-url="/en-us/learn/modules/get-started-with-power-bi/"
+																	aria-pressed="false"
+																	title="Add Get started building with Power BI to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/examine-microsoft-azure-security-privacy-compliance-trust.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 4: Describe general security
+															and network security features
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->59 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 4: Describe general security and network security features"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-general-security-network-security-features/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 4: Describe general security and network security features to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/az-900-describe-identity-governance-privacy-compliance-features.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 5: Describe identity,
+															governance, privacy, and compliance features
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->1 hr 32 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+														<progress class="progress is-success is-extra-small" value="12"
+															max="92"></progress><span class="progress-label">
+															<!---->13%
+															<!---->
+														</span>
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/review-microsoft-azure-pricing-slas-lifecycles.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Learning Path
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Azure Fundamentals part 6: Describe Azure cost
+															management and service level agreements
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->1 hr 10 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Administrator
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Azure Fundamentals part 6: Describe Azure cost management and service level agreements"
+																	data-list-item-url="/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/"
+																	aria-pressed="false"
+																	title="Add Azure Fundamentals part 6: Describe Azure cost management and service level agreements to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<li class="grid-item">
+											<article data-bi-name="card" class="card is-branded">
+												<div class="card-header has-background-azure-card">
+													<figure class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/get-started-ai-fundamentals.svg">
+													</figure>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3>
+															<!---->Get started with AI on Azure
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															<!---->34 min
+															<!---->
+														</li>
+														<li>
+															<!---->
+															<div class="font-size-s has-text-subtle">
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!----><span aria-hidden="true"
+																	class="star docon docon-star"></span>
+																<!---->
+
+																<span role="img" aria-label="4.7 out of 5 stars">
+																	<!---->4.7 (28,970)
+																</span>
+															</div>
+															<!---->
+														</li>
+													</ul>
+													<ul class="tags">
+
+														<!---->
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->AI Engineer
+															<!---->
+														</li>
+														<!---->
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<!---->
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+															<div class="buttons">
+
+																<button type="button"
+																	class="collection button button-clear button-primary has-inner-focus button-sm "
+																	data-bi-name="collection"
+																	data-list-type="collection"
+																	data-list-item-title="Get started with AI on Azure"
+																	data-list-item-url="/en-us/learn/modules/get-started-ai-fundamentals/"
+																	aria-pressed="false"
+																	title="Add Get started with AI on Azure to a collection">
+																	<span class="icon" aria-hidden="true">
+																		<span
+																			class="docon docon-circle-addition"></span>
+																	</span>
+																	<span class="add-to-collection-status">Save</span>
+																</button>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</article>
+										</li>
+										<!---->
+										<!---->
+										<!---->
+										<!---->
+									</ul>
+									<div class="has-margin-top-large has-text-centered">
+										<a id="browse-trending-link" href="#"
+											data-bi-name="learn-homepage-trending-browse" data-linktype="absolute-path">
+											<span id="browse-trending-link-text">See what others are learning</span>
+											<span class="docon docon-chevron-right-light" aria-hidden="true"></span>
+										</a>
+									</div>
+								</div>
+							</section>
+
+							<section id="featured-section" data-bi-name="learn-homepage-featured">
+								<div
+									class="uhf-container has-padding-top-extra-large has-padding-bottom-extra-large has-padding-left-extra-large-desktop has-padding-right-extra-large-desktop position-relative bookend-container">
+									<h2 class="title not-authenticated is-2 has-text-centered">Our current favorites
+									</h2>
+									<h2 class="title authenticated is-2 has-text-centered">New and recently updated</h2>
+
+									<ul id="featured-grid"
+										class="grid is-3-desktop has-margin-left-extra-large-desktop has-margin-right-extra-large-desktop">
+										<li class="grid-item">
+											<article data-learn-uid="learn.azure-well-architected-introduction"
+												class="card is-branded">
+												<!---->
+												<div class="card-header has-background-azure-card">
+													<div class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/azure-well-architected-introduction.svg">
+													</div>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3 class="font-size-m margin-none"
+															id="learn.azure-well-architected-introduction_title">
+															<!---->Introduction to the Microsoft Azure Well-Architected
+															Framework
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															1 hr 4 min
+														</li>
+
+													</ul>
+													<ul class="tags is-hidden-mobile is-hidden-tablet-only has-margin-top-small"
+														id="learn.azure-well-architected-introduction_tags">
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->Solution Architect
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+
+															<button type="button"
+																class="collection button button-clear button-primary has-inner-focus button-sm "
+																data-bi-name="collection" data-list-type="collection"
+																data-list-item-title="Introduction to the Microsoft Azure Well-Architected Framework"
+																data-list-item-url="/en-us/learn/modules/azure-well-architected-introduction/"
+																aria-pressed="false"
+																title="Add Introduction to the Microsoft Azure Well-Architected Framework to a collection">
+																<span class="icon" aria-hidden="true">
+																	<span class="docon docon-circle-addition"></span>
+																</span>
+																<span class="add-to-collection-status">Save</span>
+															</button>
+
+														</div>
+													</div>
+												</div>
+												<!---->
+												<!---->
+											</article>
+										</li>
+										<li class="grid-item">
+											<article data-learn-uid="learn.static-apps-gatsby" class="card is-branded">
+												<!---->
+												<div class="card-header has-background-azure-card">
+													<div class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/static-apps-gatsby.svg">
+													</div>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3 class="font-size-m margin-none"
+															id="learn.static-apps-gatsby_title">
+															<!---->Create and publish a static web app with Gatsby and
+															Azure Static Web Apps
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															31 min
+														</li>
+
+													</ul>
+													<ul class="tags is-hidden-mobile is-hidden-tablet-only has-margin-top-small"
+														id="learn.static-apps-gatsby_tags">
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->Developer
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->Azure
+															<!---->
+														</li>
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+
+															<button type="button"
+																class="collection button button-clear button-primary has-inner-focus button-sm "
+																data-bi-name="collection" data-list-type="collection"
+																data-list-item-title="Create and publish a static web app with Gatsby and Azure Static Web Apps"
+																data-list-item-url="/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/"
+																aria-pressed="false"
+																title="Add Create and publish a static web app with Gatsby and Azure Static Web Apps to a collection">
+																<span class="icon" aria-hidden="true">
+																	<span class="docon docon-circle-addition"></span>
+																</span>
+																<span class="add-to-collection-status">Save</span>
+															</button>
+
+														</div>
+													</div>
+												</div>
+												<!---->
+												<!---->
+											</article>
+										</li>
+										<li class="grid-item">
+											<article data-learn-uid="learn.github.github-actions-automate-tasks"
+												class="card is-branded">
+												<!---->
+												<div class="card-header has-background-github-card">
+													<div class="card-header-image">
+														<img role="presentation" alt=""
+															src="media/github-actions-automate-tasks.svg">
+													</div>
+												</div>
+												<div class="card-content">
+													<p class="card-content-super-title">
+														Module
+													</p>
+													<a class="card-content-title" href="#">
+														<h3 class="font-size-m margin-none"
+															id="learn.github.github-actions-automate-tasks_title">
+															<!---->Automate development tasks by using GitHub Actions
+															<!---->
+														</h3>
+													</a>
+													<ul class="card-content-metadata">
+														<li>
+															49 min
+														</li>
+
+													</ul>
+													<ul class="tags is-hidden-mobile is-hidden-tablet-only has-margin-top-small"
+														id="learn.github.github-actions-automate-tasks_tags">
+														<li class="tag is-small">
+															<!---->Beginner
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->DevOps Engineer
+															<!---->
+														</li>
+														<li class="tag is-small">
+															<!---->GitHub
+															<!---->
+														</li>
+													</ul>
+												</div>
+												<div class="card-footer">
+													<div class="card-footer-item">
+
+													</div>
+													<div class="card-footer-item">
+														<div class="buttons">
+
+															<button type="button"
+																class="collection button button-clear button-primary has-inner-focus button-sm "
+																data-bi-name="collection" data-list-type="collection"
+																data-list-item-title="Automate development tasks by using GitHub Actions"
+																data-list-item-url="/en-us/learn/modules/github-actions-automate-tasks/"
+																aria-pressed="false"
+																title="Add Automate development tasks by using GitHub Actions to a collection">
+																<span class="icon" aria-hidden="true">
+																	<span class="docon docon-circle-addition"></span>
+																</span>
+																<span class="add-to-collection-status">Save</span>
+															</button>
+
+														</div>
+													</div>
+												</div>
+												<!---->
+												<!---->
+											</article>
+										</li>
+										<li class="grid-item is-decorative">
+											<!---->
+											<img alt=""
+												class="image align-self-center has-height-175 has-width-auto is-center-aligned"
+												src="https://docs.microsoft.com/en-us/media/learn/home/mascot-cloud.png">
+											<!---->
+										</li>
+									</ul>
+
+									<img alt="" src="media/mascot-cloud.png?branch=main"
+										class="image is-hidden-mobile is-hidden-tablet-only bookend has-padding-top-extra-large has-margin-left-negative-extra-large"
+										data-linktype="absolute-path">
+									<img alt="" src="media/mascot-doc.png?branch=main"
+										class="image is-hidden-mobile is-hidden-tablet-only bookend has-padding-top-extra-large has-margin-right-negative-extra-large"
+										data-linktype="absolute-path">
+								</div>
+							</section>
+
+							<!-- </content> -->
+
+						</main>
+
+						<!-- page rating section -->
+						<!-- end page rating section -->
+
+
+
+						<!-- recommendations section -->
+						<!-- end recommendations section -->
+
+						<!-- feedback section -->
+						<!-- end feedback section -->
+
+						<!-- feedback report section -->
+						<!-- end feedback report section -->
+
+						<div
+							class="border-top is-visible-interactive has-default-focus has-margin-top-large  has-margin-top-none">
+
+
+
+							<footer id="footer-interactive" data-bi-name="footer" class="footer-layout">
+								<div class="display-flex is-full-height has-padding-right-extra-large-desktop">
+									<a data-mscc-ic="false"
+										class="locale-selector-link button button-clear flex-shrink-0" href="#"
+										data-bi-name="select-locale">
+										<span class="icon" aria-hidden="true">
+											<span class="docon docon-world"></span>
+										</span>
+										<span class="local-selector-link-text"></span></a>
+									<div class="margin-inline-xs flex-shrink-0">
+										<div class="dropdown has-caret-up">
+											<button
+												class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+												aria-controls="theme-menu-interactive" aria-expanded="false"
+												title="Theme" data-bi-name="theme">
+												<span class="icon">
+													<span class="docon docon-sun" aria-hidden="true"></span>
+												</span>
+												<span>Theme</span>
+											</button>
+											<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+												<ul class="theme-selector has-padding-small">
+													<li class="theme is-block theme-selector light-theme-custom">
+														<button
+															class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+															data-theme-to="light">
+															<span class="theme-light has-margin-right-small">
+																<span
+																	class="theme-selector-icon css-variable-support border is-inline-block has-body-background"
+																	aria-hidden="true">
+																	<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+																		viewBox="0 0 22 14">
+																		<rect width="22" height="14"
+																			class="has-fill-body-background" />
+																		<rect x="5" y="5" width="12" height="4"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="8" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="11" y="2" width="3" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="1" y="1" width="2" height="2"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="10" width="7" height="2" rx="0.3"
+																			class="has-fill-primary" />
+																		<rect x="19" y="1" width="2" height="2" rx="1"
+																			class="has-fill-secondary" />
+																	</svg>
+																</span>
+															</span>
+															<span role="menuitem">
+																Light </span>
+														</button>
+													</li>
+													<li class="theme is-block theme-selector dark-theme-custom">
+														<button
+															class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+															data-theme-to="dark">
+															<span class="theme-dark has-margin-right-small">
+																<span
+																	class="border theme-selector-icon css-variable-support is-inline-block has-body-background"
+																	aria-hidden="true">
+																	<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+																		viewBox="0 0 22 14">
+																		<rect width="22" height="14"
+																			class="has-fill-body-background" />
+																		<rect x="5" y="5" width="12" height="4"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="8" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="11" y="2" width="3" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="1" y="1" width="2" height="2"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="10" width="7" height="2" rx="0.3"
+																			class="has-fill-primary" />
+																		<rect x="19" y="1" width="2" height="2" rx="1"
+																			class="has-fill-secondary" />
+																	</svg>
+																</span>
+															</span>
+															<span role="menuitem">
+																Dark </span>
+														</button>
+													</li>
+													<li class="theme is-block theme-selector highC-theme-custom">
+														<button
+															class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+															data-theme-to="high-contrast">
+															<span class="theme-high-contrast has-margin-right-small">
+																<span
+																	class="border theme-selector-icon css-variable-support is-inline-block has-body-background"
+																	aria-hidden="true">
+																	<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+																		viewBox="0 0 22 14">
+																		<rect width="22" height="14"
+																			class="has-fill-body-background" />
+																		<rect x="5" y="5" width="12" height="4"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="8" y="2" width="2" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="11" y="2" width="3" height="1"
+																			class="has-fill-secondary" />
+																		<rect x="1" y="1" width="2" height="2"
+																			class="has-fill-secondary" />
+																		<rect x="5" y="10" width="7" height="2" rx="0.3"
+																			class="has-fill-primary" />
+																		<rect x="19" y="1" width="2" height="2" rx="1"
+																			class="has-fill-secondary" />
+																	</svg>
+																</span>
+															</span>
+															<span role="menuitem">
+																High contrast </span>
+														</button>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+								<ul class="links" data-bi-name="footerlinks">
+									<li class="manage-cookies-holder" hidden></li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="archivelink">Previous Version
+											Docs</a></li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="bloglink">Blog</a></li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="contributorGuide">Contribute</a>
+									</li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="privacy">Privacy &amp;
+											Cookies</a></li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="termsofuse">Terms of Use</a></li>
+									<li><a data-mscc-ic="false" href="#" data-bi-name="trademarks">Trademarks</a></li>
+									<li>&copy; Microsoft 2021</li>
+								</ul>
+							</footer>
+						</div>
+					</div>
+
+
+				</div>
+				<!--end of div.columns -->
+
+			</section>
+			<!--end of .primary-holder -->
+
+			<!-- interactive container -->
+			<aside id="interactive-container"
+				class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+			<!-- end of interactive container -->
+		</div>
+
+	</div>
+	<!--end of .mainContainer -->
+	<div data-bi-name="modal" class="mobile-menu">
+		<div tabindex="-1" role="dialog" aria-modal="true" class="modal has-default-focus is-active"
+			aria-labelledby="modal-heading">
+			<!---->
+			<div class="modal-background modal-close"></div>
+			<div class="modal-content is-docked-right display-flex flex-direction-column">
+				<!---->
+				<div id="modal-header" class="nav-bar border-bottom">
+					<div class="nav-bar-item">
+						<button type="button" class="nav-bar-button" autofocus="">
+							<span class="icon is-small">
+								<span class="docon docon-home" aria-hidden="true"></span>
+							</span>
+							<h4 class="title font-size-lg has-padding-left-extra-small">
+								<!---->Docs
+								<!---->
+							</h4>
+						</button>
+					</div>
+
+					<div class="nav-bar-search " id="ax-23" hidden="">
+
+						<form class="nav-bar-search-form" method="GET" name="nav-bar-search-form" role="search"
+							id="nav-bar-search-form" aria-label="Search" aria-expanded="false" action="/en-us/search/">
+							<div class="autocomplete" data-bi-name="autocomplete">
+								<!---->
+								<div class="control ">
+									<input role="combobox" maxlength="100" aria-autocomplete="list" autocapitalize="off"
+										autocomplete="off" autocorrect="off" spellcheck="false" id="site-search-input"
+										class="autocomplete-input input   is-small" type="search" name="terms"
+										aria-expanded="false" aria-owns="ax-24-listbox" aria-activedescendant=""
+										aria-label="Search" placeholder="Search">
+
+									<span aria-hidden="true" class="icon is-small is-left" hidden="">
+										<span class="has-text-primary docon docon-undefined"></span>
+									</span>
+
+									<span aria-hidden="true" class="autocomplete-loader loader has-text-primary "
+										hidden=""></span>
+								</div>
+
+								<ul class="autocomplete-suggestions is-vertically-scrollable" role="listbox"
+									id="ax-24-listbox" aria-label="site-search-input-suggestions" hidden="">
+
+
+								</ul>
+								<!---->
+							</div>
+							<!-- mobile safari will not dispatch submit event unless there's a submit button that is not display:none -->
+							<button type="submit" class="visually-hidden" tabindex="-1" aria-hidden="true"></button>
+							<input name="category" hidden="" value="Learn">
+
+
+
+						</form>
+
+					</div>
+
+					<div class="nav-bar-search ">
+						<div class="nav-bar-search-form-expander">
+							<button id="form-expander" class="nav-bar-button has-hover-underline " title="Search"
+								aria-expanded="false" aria-controls="ax-23">
+
+								<span class="is-visually-hidden-mobile">
+									<!---->Search
+									<!---->
+								</span>
+								<span class="icon margin-left-xxs" aria-hidden="true">
+									<span class="docon docon-search"></span>
+								</span>
+
+							</button>
+						</div>
+					</div>
+
+					<div class="nav-bar-item">
+						<button type="button" class="nav-bar-button modal-close border-left">
+							<span class="visually-hidden">
+								<!---->Close
+								<!---->
+							</span>
+							<span class="icon is-small">
+								<span class="docon docon-math-multiply" aria-hidden="true"></span>
+							</span>
+						</button>
+					</div>
+				</div>
+
+				<div id="modal-body" class="flex-grow-1 flex-shrink-1 is-full-height is-vertically-scrollable">
+
+
+					<div class="font-size-md">
+						<h2 id="modal-heading" class="padding-xs font-weight-semibold">
+							Learn
+
+						</h2>
+					</div>
+					<nav class="nav-bar-mobile-nav" role="navigation" aria-label="Global">
+						<ul class="nav-bar-mobile-nav-list">
+							<li class="nav-bar-mobile-nav-item ">
+								<a autofocus="" class="has-external-link-indicator nav-bar-button has-text-wrap "
+									href="/learn/">
+									<!---->Home
+									<!---->
+								</a>
+							</li>
+							<!---->
+							<li class="nav-bar-mobile-nav-item">
+								<button type="button" class="nav-bar-button has-text-wrap" autofocus="">
+									<span class="is-text-left ">
+										<!---->Products
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-right-light"></span>
+									</span>
+								</button>
+							</li>
+							<!---->
+							<li class="nav-bar-mobile-nav-item">
+								<button type="button" class="nav-bar-button has-text-wrap" autofocus="">
+									<span class="is-text-left ">
+										<!---->Roles
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-right-light"></span>
+									</span>
+								</button>
+							</li>
+							<!---->
+							<li class="nav-bar-mobile-nav-item ">
+								<a autofocus="" class="has-external-link-indicator nav-bar-button has-text-wrap "
+									href="/learn/tv/">
+									<!---->Learn TV
+									<!---->
+								</a>
+							</li>
+							<!---->
+							<li class="nav-bar-mobile-nav-item">
+								<button type="button" class="nav-bar-button has-text-wrap" autofocus="">
+									<span class="is-text-left ">
+										<!---->Certifications
+										<!---->
+									</span>
+									<span class="nav-bar-button-chevron" aria-hidden="true">
+										<span class="docon docon-chevron-right-light"></span>
+									</span>
+								</button>
+							</li>
+							<!---->
+							<li class="nav-bar-mobile-nav-item ">
+								<a autofocus="" class="has-external-link-indicator nav-bar-button has-text-wrap "
+									href="/learn/support/">
+									<!---->FAQ &amp; Help
+									<!---->
+								</a>
+							</li>
+							<!---->
+
+						</ul>
+					</nav>
+
+				</div>
+
+				<div class="border-top display-flex align-items-center has-padding-small justify-content-space-between">
+					<span class="flex-grow-1 flex-shrink-1 font-size-xs">
+						<!----><span class="font-weight-semibold">Welcome</span> to Microsoft Docs!
+						<!---->
+					</span>
+					<div>
+
+
+						<a class="docs-sign-in auth-status-determined not-authenticated button button-filled button-sm has-outer-focus button-primary"
+							href="#">
+							<!---->Sign in
+							<!---->
+						</a>
+					</div>
+				</div>
+				<!---->
+				<!---->
+			</div>
+			<!---->
+		</div>
+	</div>
+
+	<section class="border-top has-default-focus is-hidden-interactive has-margin-top-large  has-margin-top-none">
+
+
+
+		<footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
+			<div class="display-flex is-full-height has-padding-right-extra-large-desktop">
+				<a data-mscc-ic="false" class="locale-selector-link button button-clear flex-shrink-0" href="#"
+					data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text">English (United States)</span>
+				</a>
+				<div class="margin-inline-xs flex-shrink-0">
+					<div class="dropdown has-caret-up">
+						<button
+							class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+							aria-controls="theme-menu" aria-expanded="false" title="Theme" data-bi-name="theme">
+							<span class="icon">
+								<span class="docon docon-sun" aria-hidden="true"></span>
+							</span>
+							<span>Theme</span>
+						</button>
+						<div class="dropdown-menu dropdown-closed" id="theme-menu" role="menu">
+							<ul class="theme-selector has-padding-small">
+								<li class="theme is-block theme-selector light-theme-custom">
+									<button
+										class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+										data-theme-to="light">
+										<span class="theme-light has-margin-right-small">
+											<span
+												class="theme-selector-icon css-variable-support border is-inline-block has-body-background"
+												aria-hidden="true">
+												<svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 14">
+													<rect width="22" height="14" class="has-fill-body-background" />
+													<rect x="5" y="5" width="12" height="4"
+														class="has-fill-secondary" />
+													<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="11" y="2" width="3" height="1"
+														class="has-fill-secondary" />
+													<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+													<rect x="5" y="10" width="7" height="2" rx="0.3"
+														class="has-fill-primary" />
+													<rect x="19" y="1" width="2" height="2" rx="1"
+														class="has-fill-secondary" />
+												</svg>
+											</span>
+										</span>
+										<span role="menuitem">
+											Light </span>
+									</button>
+								</li>
+								<li class="theme is-block theme-selector dark-theme-custom">
+									<button
+										class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+										data-theme-to="dark">
+										<span class="theme-dark has-margin-right-small">
+											<span
+												class="border theme-selector-icon css-variable-support is-inline-block has-body-background"
+												aria-hidden="true">
+												<svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 14">
+													<rect width="22" height="14" class="has-fill-body-background" />
+													<rect x="5" y="5" width="12" height="4"
+														class="has-fill-secondary" />
+													<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="11" y="2" width="3" height="1"
+														class="has-fill-secondary" />
+													<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+													<rect x="5" y="10" width="7" height="2" rx="0.3"
+														class="has-fill-primary" />
+													<rect x="19" y="1" width="2" height="2" rx="1"
+														class="has-fill-secondary" />
+												</svg>
+											</span>
+										</span>
+										<span role="menuitem">
+											Dark </span>
+									</button>
+								</li>
+								<li class="theme is-block theme-selector highC-theme-custom">
+									<button
+										class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+										data-theme-to="high-contrast">
+										<span class="theme-high-contrast has-margin-right-small">
+											<span
+												class="border theme-selector-icon css-variable-support is-inline-block has-body-background"
+												aria-hidden="true">
+												<svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 14">
+													<rect width="22" height="14" class="has-fill-body-background" />
+													<rect x="5" y="5" width="12" height="4"
+														class="has-fill-secondary" />
+													<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+													<rect x="11" y="2" width="3" height="1"
+														class="has-fill-secondary" />
+													<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+													<rect x="5" y="10" width="7" height="2" rx="0.3"
+														class="has-fill-primary" />
+													<rect x="19" y="1" width="2" height="2" rx="1"
+														class="has-fill-secondary" />
+												</svg>
+											</span>
+										</span>
+										<span role="menuitem">
+											High contrast </span>
+									</button>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<ul class="links" data-bi-name="footerlinks">
+				<li class="manage-cookies-holder" hidden></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="archivelink">Previous Version Docs</a></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="bloglink">Blog</a></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="contributorGuide">Contribute</a></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="privacy">Privacy &amp; Cookies</a></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a data-mscc-ic="false" href="#" data-bi-name="trademarks">Trademarks</a></li>
+				<li>&copy; Microsoft 2021</li>
+			</ul>
+		</footer>
+	</section>
+
+	<div id="action-panel" role="region" aria-label="Action Panel" class="action-panel has-default-focus" tabindex="-1">
+	</div>
+</body>
+
+</html>
