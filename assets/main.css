@@ -23054,3 +23054,13 @@ input:checked + .quiz-choice .custom-radio:before {
 #nav-bar-search-form-desktop{
   margin: 0;
 }
+.nav-bar-button:hover,
+.nav-bar-button:focus,
+.nav-bar-button:active{
+  outline: 0;
+  box-shadow: none;
+  background: transparent;
+}
+.nav-bar-button:after{
+  display: none;
+}
