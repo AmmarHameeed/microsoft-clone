@@ -27,6 +27,11 @@ $(document).ready(function(){
         $("html").removeClass("theme-light");
         $("#theme-menu").hide();
     })
+    $(".unit-expander").on("click", function(){
+        $(".module-units").attr("hidden","hidden");
+        $(this).siblings().removeAttr("hidden");
+        
+    })
     // $(".dropdown-trigger").on("click", function(){
     //     console.log("clicked")
     //     $(".dropdown-menu").hide();
@@ -63,7 +68,6 @@ $(document).ready(function(){
     //     // }
     // })
     $(".theme-dropdown-trigger").on("click", function(){
-        console.log("dropdown click")
         // $("#theme-menu").removeClass("dropdown-closed")
         //     $("#theme-menu").addClass("dropdown-open")
         $("#theme-menu").show();
