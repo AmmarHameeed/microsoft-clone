@@ -32,6 +32,17 @@ $(document).ready(function(){
         $(this).siblings().removeAttr("hidden");
         
     })
+    $(".expand-btn").on("click", function(){
+        var truel = $(this).siblings(".child-list").find("li").is("[hidden]");
+        if (truel){
+            $(".child-list").find("li").attr("hidden","hidden");
+            $(this).siblings(".child-list").find("li").removeAttr("hidden");
+        }
+        else{
+            $(".child-list").find("li").attr("hidden","hidden");
+        }
+        
+    })
     // $(".dropdown-trigger").on("click", function(){
     //     console.log("clicked")
     //     $(".dropdown-menu").hide();
@@ -68,8 +79,6 @@ $(document).ready(function(){
     //     // }
     // })
     $(".theme-dropdown-trigger").on("click", function(){
-        // $("#theme-menu").removeClass("dropdown-closed")
-        //     $("#theme-menu").addClass("dropdown-open")
         $("#theme-menu").show();
     })
 })
