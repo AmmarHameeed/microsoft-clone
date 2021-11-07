@@ -23064,3 +23064,6 @@ input:checked + .quiz-choice .custom-radio:before {
 .nav-bar-button:after{
   display: none;
 }
+#unit-inner-section .row > .column{
+  overflow-x: unset;
+}

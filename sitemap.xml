@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.microsoft.com/en-us/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/documentation/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/samples/browse/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/cpp/?view=msvc-160</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/csharp/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dynamics365/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/gaming/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-365/?view=o365-worldwide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-edge/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/security/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoftteams/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/onedrive/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/powerapps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-bi/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-platform/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/powershell/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/sharepoint/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/visual-basic/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/windows/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/xamarin/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/certifications/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/tv/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/teamblog/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/previous-versions/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/contribute/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/legal/termsofuse</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/products/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/policies/modern</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-support-lifecycle</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/deployedge/microsoft-edge-channels</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/deployedge/microsoft-edge-supported-operating-systems</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/definitions</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/products/?ts=0&amp;products=windows</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/faq/extended-security-updates</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/announcements/internet-explorer-11-support-end-dates</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/DeployEdge/edge-ie-mode</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/adaptive-cards/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/windows/mixed-reality/altspace-vr/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/health-bot/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/iot-fundamentals/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/quantum/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure-sphere/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-desktop/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/bingmaps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/biztalk/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/clarity/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/cognitive-toolkit/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/../data-platform/data-platform-intro</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/cortana/skills/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/partner-center/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/enterprise-mobility-security/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/ef/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/exchange/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/fsharp/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/github/github-actions</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10-version-1709/new-features-introduced-in-iis-10-1709</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/java/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/javascript/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-365/business/?view=o365-worldwide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-365/enterprise/?view=o365-worldwide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/advertising/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-365/bookings/?view=o365-worldwide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/java/openjdk/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/industry/healthcare/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/compliance/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/education/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/mem/configmgr/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/mem/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/fasttrack/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/graph/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/kaizala/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/mem/intune/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/lifecycle/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/machine-learning-server/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoft-365/managed-desktop/?view=o365-worldwide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/microsoftsearch/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/security-updates/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/stream/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/surface/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/viva/insights/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/windows/mixed-reality/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/machine-learning/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/nuget/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/office/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/openspecs/main/ms-openspeclp/3589baea-5b22-48f2-9d43-f5bea4960ddb</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/playready/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-automate/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-query/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-virtual-agents/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/project/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/skypeforbusiness/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/system-center/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/virtualization/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/appcenter/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/yammer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/browse/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/products/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?sort=viewCount&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?page=2&amp;pageSize=15&amp;sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?page=3&amp;pageSize=15&amp;sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?page=4&amp;pageSize=15&amp;sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?page=5&amp;pageSize=15&amp;sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/index.html?page=7576&amp;pageSize=15&amp;sort=active&amp;customPageSize=true&amp;filters=all</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/paths/build-dotnet-applications-csharp/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/get-started</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/dotnet/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/azure/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/whats-new/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/introduction</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/tutorials/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/dotnet-five</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/deploying/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/fundamentals/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/ef/core/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/standard/components</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/framework/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/answers/products/dotnet</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/sdk</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/tools/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/standard/net-standard</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/porting/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/docker/build-container</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/compatibility/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/desktop/wpf/get-started/create-app-visual-studio?view=netdesktop-5.0&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/microservices/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/xamarin/xamarin-forms/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/xamarin/ios/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/xamarin/android/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/mobile-apps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/maui/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/uwp/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netframeworkdesktop-4.8&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/xamarin/mac/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/serverless/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/core/extensions/cloud-service</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service?preserve-view=true&amp;view=azure-dotnet</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/azure/key-azure-services</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/azure/sdk/azure-sdk-for-dotnet</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/fsharp/using-fsharp-on-azure/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/machine-learning/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/spark/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/iot/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/iot/quickstarts/sensehat</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/iot/tutorials/blink-led</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=net-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-3.1&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.8&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=aspnetcore-3.1&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=ml-dotnet&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=spark-dotnet&amp;preserve-view=true</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/contribute/dotnet/dotnet-contribute</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/whats-new/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/formatting?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/web-api/handle-errors?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/razor-pages/filter?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/razor-pages/razor-pages-conventions?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/actions?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-blazor?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr-typescript-webpack?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/signalr/hubs?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/signalr/client-features?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/signalr/scale?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/basics?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/aspnetcore?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/client?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/grpc/browser?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/blazor/components/data-binding?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-connected-services-storage?view=vs-2019&amp;viewFallbackFrom=aspnetcore-3.1</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet-legacy?bc=%252faspnet%252fcore%252fbreadcrumb%252ftoc.json&amp;toc=%252faspnet%252fcore%252ftoc.json&amp;view=aspnetcore-3.1</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview?bc=%252faspnet%252fcore%252fbreadcrumb%252ftoc.json&amp;toc=%252faspnet%252fcore%252ftoc.json&amp;view=aspnetcore-3.1</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/api/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/azure-apps/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-apache?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/introduction?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/portable-object-localization?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization-extensibility?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/troubleshoot-aspnet-core-localization?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/test/razor-pages-tests?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/visualstudio/debugger/remote-debugging-azure?view=vs-2019&amp;viewFallbackFrom=aspnetcore-3.1</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger?bc=%252faspnet%252fcore%252fbreadcrumb%252ftoc.json&amp;toc=%252faspnet%252fcore%252ftoc.json&amp;view=aspnetcore-3.1</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/test/load-tests?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/test/troubleshoot?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/visualstudio/containers/container-tools?view=vs-2019&amp;viewFallbackFrom=vs-2019.md</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-sql-database</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/performance/response-compression?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/performance/diagnostic-tools?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/request-response?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/url-rewriting?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/21-to-22?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/?view=aspnetcore-5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-client-side-web-technologies</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/development-process-for-azure</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/learn/browse/?products=azure&amp;resource_type=learning%20path</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/app-service/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/api-management/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-app-configuration/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/application-gateway/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-monitor/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/automation/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/avere-vfxt/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/active-directory/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/active-directory-domain-services/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/active-directory/external-identities/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/advisor/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/analysis-services/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/healthcare-apis/fhir/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/applied-ai-services/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-arc/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/backup/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/bastion/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/blockchain/workbench/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/governance/blueprints/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/boards/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cloud-shell/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/search/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/communication-services/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cosmos-db/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cyclecloud/?view=cyclecloud-8</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/data-explorer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/data-share/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/mariadb/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/mysql/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/postgresql/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/dms/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/databricks/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/dedicated-hsm/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/security-center/azure-defender</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/defender-for-iot/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/lab-services/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/digital-twins/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/dns/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/expressroute/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/files/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/firewall/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/firewall-manager/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/frontdoor/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-functions/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/fxt-edge-filer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/hpc-cache/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/information-protection/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/internet-analyzer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/iot-central/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/iot-edge/?view=iotedge-2020-11</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/iot-hub/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/aks/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/lighthouse/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-maps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/media-services/latest/player-use-azure-media-player-how-to</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/migrate/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-netapp-files/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/open-datasets/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-percept/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/governance/policy/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/private-link/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/purview/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-machines/linux/openshift-get-started</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/remote-rendering/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/repos/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-resource-manager/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/resource-mover/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/route-server/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/rtos/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/sentinel/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/service-health/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-signalr/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/site-recovery/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/spring-cloud/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-sql/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-sql/database/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-sql-edge/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure-stack/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/databox-online/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure-stack/hci/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure-stack/operator/?view=azs-2102</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/stream-analytics/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/synapse-analytics/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/devops/test/?view=azure-devops</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/time-series-insights/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-video-analyzer/video-analyzer-docs/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-video-analyzer/video-analyzer-for-media-docs/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-vmware/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/batch/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/blobs/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cloud-services-extended-support/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/container-instances/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/container-registry/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cdn/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/media-services/latest/drm-content-protection-concept</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cost-management-billing/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/databox/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/data-catalog/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/data-factory/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/data-lake-analytics/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/media-services/latest/encode-concept</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/event-grid/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/event-hubs/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/face/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/hdinsight/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/applied-ai-services/immersive-reader/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/key-vault/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/kinect-dk/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/luis/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-machines/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/media-services/latest/stream-live-tutorial-with-api</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/load-balancer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/logic-apps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/media-services/latest/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-portal/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/genomics/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/network-watcher/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/notification-hubs/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/object-anchors/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/power-bi/developer/embedded/embedded-analytics-power-bi</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/bonsai/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/queues/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/security-center/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/service-bus-messaging/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/service-fabric/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/spatial-anchors/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/index-speech-to-text</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/index-speech-translation</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview?toc=/azure/virtual-machines/windows/toc.json</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/static-web-apps/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storsimple/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/index-text-to-speech</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/traffic-manager/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/cognitive-services/translator/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-network/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/virtual-wan/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/vpn-gateway/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/web-application-firewall/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/windows/iot-core/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/python/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/javascript/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/java/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/go/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/rest/api/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.5.0</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/cli/azure/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/jenkins/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/developer/terraform/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/azure-government/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/germany/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/china/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/partner-solutions/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/marketplace/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/browse/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/framework/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/changelog</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/responsible-innovation/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/microservices/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/patterns/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/assessments/?id=azure-architecture-review</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/performance/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/antipatterns/</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/framework/security/overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-python-models</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-deep-learning</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/batch-scoring-python</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/natural-language-processing</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.microsoft.com/en-us/azure/architecture/example-scenario/ai/movie-recommendations-with-machine-learning</loc>
+  <lastmod>2021-11-02T08:58:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
